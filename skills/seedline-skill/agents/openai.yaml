@@ -1,0 +1,4 @@
+interface:
+  display_name: "seedline skill"
+  short_description: "seedline 统一技能入口，第一期通过机构只读接口获取雅思或托福完整大题与试卷"
+  default_prompt: "使用 $seedline-skill，通过我的机构开放接口权限获取指定的雅思或托福完整大题或整套试卷，并保存为与题目录入 skill 一致的数据格式。"
